@@ -1,6 +1,6 @@
 # Karan Pratap Singh  
 **Presidential Scholar @ Georgia State University**  
-**Computer Science | AI & Accessibility Enthusiast**  
+**Computer Science | AI Enthusiast**  
 
 Building accessible and intelligent systems that make technology more inclusive and understandable.  
 
