@@ -39,7 +39,8 @@ I enjoy creating tools that promote inclusivity and writing about the ideas shap
 ### Stockd - AI-powered inventory management solution
 - built for Medium to Large Business owners-focused on reducing wastage and **improving sustainability while maximizing profit.**
 - Stockd **turns data into dollars**. Better inventory decisions mean less waste, higher profits, and smarter operations.
-- Improve profit margins by 2-5% through optimized purchasing and dynamic revenue management. Save 8+ hours per week with automated reorder suggestions and instant inventory insights         **Increase revenue 10-15%** during peak periods with intelligent surge pricing, **Reduce food waste by 20-40%** through precise ordering—cutting costs and helping the environment.
+- Improve profit margins by 2-5% through optimized purchasing and dynamic revenue management.
+- **Increase revenue 10-15%** during peak periods with intelligent surge pricing, **Reduce food waste by 20-40%** through precise ordering—cutting costs and helping the environment.
 
 ---
 
