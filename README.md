@@ -36,6 +36,11 @@ I enjoy creating tools that promote inclusivity and writing about the ideas shap
 - **Won the Emerging Track at HackGT 12**, Georgia Tech’s flagship hackathon (1,500+ participants).  
 - Built using **JavaScript**, **HTML/CSS**, and **Chrome APIs** for real-time accessibility diagnostics.  
 
+### Stockd - AI-powered inventory management solution
+- built for Medium to Large Business owners-focused on reducing wastage and improving sustainability while maximizing profit.
+- Stockd turns data into dollars. Better inventory decisions mean less waste, higher profits, and smarter operations.
+- Improve profit margins by 2-5% through optimized purchasing and dynamic revenue management. Save 8+ hours per week with automated reorder suggestions and instant inventory insights         Increase revenue 10-15% during peak periods with intelligent surge pricing, Reduce food waste by 20-40% through precise ordering—cutting costs and helping the environment.
+
 ---
 
 ## 🧠 Technical Skills  
@@ -48,7 +53,8 @@ I enjoy creating tools that promote inclusivity and writing about the ideas shap
 
 ## 🏅 Awards  
 - **Presidential Scholar**, Georgia State University — Full-ride merit scholarship for academic excellence and leadership.  
-- **HackGT 12 Winner** — Emerging Track, for Vertex A11y.  
+- **HackGT 12 Winner** — Emerging Track, for Vertex A11y. 
+- **UGAHacks11 Winner** - NCR Voyix Sponsor Challenge, for Stockd.
 
 ---
 
