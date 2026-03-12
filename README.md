@@ -15,7 +15,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=32&pause=800&color=1e4c4c&center=true&vCenter=true&width=700&lines=%E2%98%85+PRESIDENTIAL+SCHOLAR+%40+GSU+%E2%98%85;%E2%9C%A6+COMPUTER+SCIENCE+%2F+AI+ENTHUSIAST+%E2%9C%A6;%E2%98%86+BUILDING+ACCESSIBLE+SYSTEMS+%E2%98%86;%F0%9F%94%92+SOMETHING+IN+STEALTH+MODE...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=32&pause=800&color=1e4c4c&center=true&vCenter=true&width=700&lines=%E2%98%85+PRESIDENTIAL+SCHOLAR+%40+GSU+%E2%98%85;%E2%9C%A6+Builder+%2F+ • Hacker+ • Systems thinker+%E2%9C%A6;%E2%98%86+BUILDING+AI_Powered+SYSTEMS+%E2%98%86;%F0%9F%94%92+SOMETHING+IN+STEALTH+MODE...)](https://git.io/typing-svg)
 
 <br/>
 
