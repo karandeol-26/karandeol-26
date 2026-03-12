@@ -36,7 +36,7 @@
 │  NAME.exe     ::  Karan Pratap Singh                │
 │  SCHOOL.exe   ::  Georgia State University 🏛️       │
 │  STATUS.exe   ::  Presidential Scholar 🎓           │
-│  STACK.exe    ::  AI · Accessibility · Web Dev      │
+│  STACK.exe    ::  Machine Learning · Web Dev        │
 │  MISSION.exe  ::  Tech that works for EVERYONE      │
 │  BUILD.exe    ::  [CLASSIFIED] 🔒 stay tuned...     │
 └─────────────────────────────────────────────────────┘
