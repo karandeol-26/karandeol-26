@@ -175,7 +175,7 @@ Turns data into dollars. Smart pricing, waste reduction, and profit optimization
 
 **→ [linkedin.com/in/karanpratap2611](https://www.linkedin.com/in/karanpratap2611)**
 
-*☆ est. 2024 · coded with ♥ · powered by curiosity ☆*
+* coded with ♥ · powered by curiosity ☆*
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00ff,25:00ffff,50:ff00ff,75:ffff00,100:00ff00&height=6"/>
 
