@@ -201,3 +201,6 @@ Turns data into dollars. Smart pricing, waste reduction, and profit optimization
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00ff,25:00ffff,50:ff00ff,75:ffff00,100:00ff00&height=6"/>
 
 </div>
+
+![GitHub Space Shooter](game.gif)
+
