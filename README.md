@@ -1,67 +1,106 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Karan%20Pratap%20Singh&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=CS%20%7C%20AI%20%7C%20Accessibility&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00ff,25:00ffff,50:ff00ff,75:ffff00,100:00ff00&height=6"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Presidential+Scholar+%40+Georgia+State+University;Building+Accessible+%26+Intelligent+Systems;AI+Enthusiast+%7C+Hackathon+Winner;Making+Technology+More+Inclusive)](https://git.io/typing-svg)
+```
+██╗  ██╗ █████╗ ██████╗  █████╗ ███╗   ██╗
+██║ ██╔╝██╔══██╗██╔══██╗██╔══██╗████╗  ██║
+█████╔╝ ███████║██████╔╝███████║██╔██╗ ██║
+██╔═██╗ ██╔══██║██╔══██╗██╔══██║██║╚██╗██║
+██║  ██╗██║  ██║██║  ██║██║  ██║██║ ╚████║
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00ff,25:00ffff,50:ff00ff,75:ffff00,100:00ff00&height=6"/>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karanpratap2611)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@karandeol2611)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karanpratap2611)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=32&pause=800&color=00FFFF&center=true&vCenter=true&width=700&lines=%E2%98%85+PRESIDENTIAL+SCHOLAR+%40+GSU+%E2%98%85;%E2%9C%A6+COMPUTER+SCIENCE+%2F+AI+ENTHUSIAST+%E2%9C%A6;%E2%98%86+BUILDING+ACCESSIBLE+SYSTEMS+%E2%98%86;%F0%9F%94%92+SOMETHING+IN+STEALTH+MODE...)](https://git.io/typing-svg)
+
+<br/>
+
+`✦` `✦` `✦` `✦` `✦` `✦` `✦` `✦` `✦` `✦` `✦` `✦`
+
+[![LinkedIn](https://img.shields.io/badge/✦_LinkedIn-FF00FF?style=for-the-badge&logoColor=white&logo=linkedin)](https://www.linkedin.com/in/karanpratap2611)
+[![Medium](https://img.shields.io/badge/✦_Medium-00FFFF?style=for-the-badge&logoColor=black&logo=medium)](https://medium.com/@karandeol2611)
+[![GitHub](https://img.shields.io/badge/✦_GitHub-FFFF00?style=for-the-badge&logoColor=black&logo=github)](https://github.com/karanpratap2611)
+
+`✦` `✦` `✦` `✦` `✦` `✦` `✦` `✦` `✦` `✦` `✦` `✦`
 
 </div>
 
+<br/>
+
 ---
 
-## 🧭 About Me
+### `> LOADING PROFILE...` ██████████ `100%` ✓
 
-```python
-class Karan:
-    university  = "Georgia State University 🏛️"
-    scholarship = "Presidential Scholar 🎓 (Full-ride merit)"
-    focus       = ["Artificial Intelligence", "Accessibility", "Human-Centered Computing"]
-    building    = "Tools that make technology inclusive for everyone"
-    currently   = "Cooking up something in stealth mode 👀🔒"
+```
+┌─────────────────────────────────────────────────────┐
+│  NAME.exe     ::  Karan Pratap Singh                │
+│  SCHOOL.exe   ::  Georgia State University 🏛️       │
+│  STATUS.exe   ::  Presidential Scholar 🎓           │
+│  STACK.exe    ::  AI · Accessibility · Web Dev      │
+│  MISSION.exe  ::  Tech that works for EVERYONE      │
+│  BUILD.exe    ::  [CLASSIFIED] 🔒 stay tuned...     │
+└─────────────────────────────────────────────────────┘
 ```
 
-> *"Technology should work for everyone — not just those who already have access to it."*
+> *☆ making technology inclusive, one commit at a time ☆*
 
 ---
 
-## 🚀 Featured Projects
+<div align="center">
+
+### ✦ ✦ ✦ &nbsp; `PROJECTS.EXE` &nbsp; ✦ ✦ ✦
+
+</div>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔍 Vertex A11y
+```
+╔══════════════════════════╗
+║  🔍  VERTEX A11Y  v1.0  ║
+╚══════════════════════════╝
+```
 **Chrome Accessibility Extension**
 
-Detects ADA/WCAG compliance issues in real-time — missing alt text, low contrast, keyboard inaccessibility, and more.
+Scans sites for ADA/WCAG violations in real-time — low contrast, missing alt text, broken keyboard nav. The web *should* work for everyone.
 
-**🏆 Won Emerging Track — HackGT 12**
-Georgia Tech's flagship hackathon among **1,500+ participants**
+```
+🏆 WON :: HackGT 12 — Emerging Track
+👥 COMPETED :: 1,500+ participants
+🏫 HOST :: Georgia Institute of Technology
+```
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Chrome Extension](https://img.shields.io/badge/Chrome_API-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Chrome](https://img.shields.io/badge/Chrome_API-00FFFF?style=flat-square&logo=googlechrome&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML%2FCSS-FF00FF?style=flat-square&logo=html5&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-### 📦 Stockd
+```
+╔══════════════════════════╗
+║  📦  STOCKD  v2.0       ║
+╚══════════════════════════╝
+```
 **AI-Powered Inventory Management**
 
-Built for medium-to-large businesses. Turns data into dollars through intelligent inventory, dynamic pricing, and waste reduction.
+Turns data into dollars. Smart pricing, waste reduction, and profit optimization for medium-to-large businesses.
 
-**🏆 Won NCR Voyix Sponsor Challenge — UGAHacks 11**
-
-> 📈 2–5% margin improvement · 10–15% revenue boost during peaks · 20–40% food waste reduction
+```
+🏆 WON :: UGAHacks 11 — NCR Voyix Challenge
+📈 MARGIN :: +2-5% improvement
+📉 WASTE  :: -20-40% food waste
+💰 PEAK   :: +10-15% revenue
+```
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![AI](https://img.shields.io/badge/AI%2FML-8B5CF6?style=flat-square&logo=openai&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-FFFF00?style=flat-square&logo=flask&logoColor=black)
+![AI](https://img.shields.io/badge/AI%2FML-FF00FF?style=flat-square&logo=openai&logoColor=white)
 
 </td>
 </tr>
@@ -69,80 +108,66 @@ Built for medium-to-large businesses. Turns data into dollars through intelligen
 
 ---
 
-## 🔒 What I'm Working On
-
 <div align="center">
+
+### ✦ `STEALTH_MODE.EXE` ✦
 
 ```
-╔══════════════════════════════════════════════╗
-║           [ CLASSIFIED — IN PROGRESS ]       ║
-║                                              ║
-║   🛸  Project Alpha  · · · · · ░░░░░░ 40%   ║
-║   ⚗️  Project Beta   · · · · · ░░░░░░ 25%   ║
-║                                              ║
-║      Some ideas are better kept secret       ║
-║           until they're ready 🤫             ║
-╚══════════════════════════════════════════════╝
+★·.·´¯`·.·★ CLASSIFIED ★·.·´¯`·.·★
+
+  [ ▓▓▓▓▓▓░░░░ ] Project Alpha — 60% done
+  [ ▓▓▓░░░░░░░ ] Project Beta  — 30% done
+
+   building in private . . . watch this space
+
+★·.·´¯`·.·★·.·´¯`·.·★·.·´¯`·.·★
 ```
 
-*Repositories private for now — stay tuned.*
-
 </div>
 
 ---
 
-## 🧠 Technical Skills
-
 <div align="center">
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Frameworks & Libraries**
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Chrome DevTools](https://img.shields.io/badge/DevTools-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-**Interests**
-
-`♿ Accessibility` `🤖 Machine Learning` `🌐 Web Development` `🌱 Sustainability` `🧮 Algorithms`
+### ✦ ✦ ✦ &nbsp; `SKILLS.EXE` &nbsp; ✦ ✦ ✦
 
 </div>
 
+**`:: LANGUAGES ::`**
+
+![Python](https://img.shields.io/badge/Python-FF00FF?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-00FFFF?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-FFFF00?style=for-the-badge&logo=html5&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-FF00FF?style=for-the-badge&logo=css3&logoColor=white)
+
+**`:: FRAMEWORKS ::`**
+
+![Flask](https://img.shields.io/badge/Flask-00FFFF?style=for-the-badge&logo=flask&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-FFFF00?style=for-the-badge&logo=pandas&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-FF00FF?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/sklearn-00FFFF?style=for-the-badge&logo=scikit-learn&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-FF00FF?style=for-the-badge&logo=pytorch&logoColor=white)
+
+**`:: TOOLS ::`**
+
+![Git](https://img.shields.io/badge/Git-FFFF00?style=for-the-badge&logo=git&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-00FFFF?style=for-the-badge&logo=github&logoColor=black)
+![Chrome DevTools](https://img.shields.io/badge/DevTools-FF00FF?style=for-the-badge&logo=googlechrome&logoColor=white)
+
+**`:: INTERESTS ::`**
+`♿ Accessibility` `🤖 Machine Learning` `🌐 Web Dev` `🌱 Sustainability` `🧮 Algorithms`
+
 ---
-
-## 🏅 Awards & Recognition
-
-| 🏆 Award | 🏛️ Institution | 📋 Details |
-|:---|:---|:---|
-| Presidential Scholar | Georgia State University | Full-ride merit scholarship for academic excellence & leadership |
-| HackGT 12 — Emerging Track Winner | Georgia Institute of Technology | **Vertex A11y** · 1,500+ participants |
-| UGAHacks 11 — NCR Voyix Challenge Winner | University of Georgia | **Stockd** · AI inventory management |
-
----
-
-## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=karanpratap2611&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanpratap2611&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=ffffff" height="165"/>
+### ✦ ✦ ✦ &nbsp; `AWARDS.EXE` &nbsp; ✦ ✦ ✦
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=karanpratap2611&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
+| ✦ | AWARD | WHERE | WHAT |
+|:---:|:---|:---|:---|
+| 🏆 | **Presidential Scholar** | Georgia State University | Full-ride · merit · leadership |
+| 🥇 | **HackGT 12 — Emerging Track** | Georgia Tech | Vertex A11y · 1,500+ competitors |
+| 🥇 | **UGAHacks 11 — NCR Voyix** | Univ. of Georgia | Stockd · AI inventory |
 
 </div>
 
@@ -150,9 +175,29 @@ Built for medium-to-large businesses. Turns data into dollars through intelligen
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+### ✦ ✦ ✦ &nbsp; `STATS.EXE` &nbsp; ✦ ✦ ✦
 
-*Open to research collaborations, internships, and building things that matter.*
-**Let's connect →** [linkedin.com/in/karanpratap2611](https://www.linkedin.com/in/karanpratap2611)
+<img src="https://github-readme-stats.vercel.app/api?username=karanpratap2611&show_icons=true&theme=synthwave&hide_border=false&title_color=FF00FF&icon_color=00FFFF&text_color=ffffff&border_color=FF00FF" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanpratap2611&layout=compact&theme=synthwave&hide_border=false&title_color=00FFFF&text_color=ffffff&border_color=00FFFF" height="160"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=karanpratap2611&theme=synthwave&hide_border=false&ring=FF00FF&fire=FFFF00&currStreakLabel=00FFFF&sideNums=FF00FF&border=FF00FF" width="60%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00ff,25:00ffff,50:ff00ff,75:ffff00,100:00ff00&height=6"/>
+
+`✦` open to collabs · internships · building things that matter `✦`
+
+**→ [linkedin.com/in/karanpratap2611](https://www.linkedin.com/in/karanpratap2611)**
+
+*☆ est. 2024 · coded with ♥ · powered by curiosity ☆*
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00ff,25:00ffff,50:ff00ff,75:ffff00,100:00ff00&height=6"/>
 
 </div>
