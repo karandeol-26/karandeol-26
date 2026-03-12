@@ -166,8 +166,8 @@ Turns data into dollars. Smart pricing, waste reduction, and profit optimization
 | ✦ | AWARD | WHERE | WHAT |
 |:---:|:---|:---|:---|
 | 🏆 | **Presidential Scholar** | Georgia State University | Full-ride · merit · leadership |
-| 🥇 | **HackGT 12 — Emerging Track** | Georgia Tech | Vertex A11y · 1,500+ competitors |
-| 🥇 | **UGAHacks 11 — NCR Voyix** | Univ. of Georgia | Stockd · AI inventory |
+| 🥇 | **HackGT 12 — Emerging Track** | Georgia Tech | Vertex A11y  |
+| 🥇 | **UGAHacks 11 — NCR Voyix** | University of Georgia | Stockd · AI inventory |
 
 </div>
 
