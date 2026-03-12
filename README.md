@@ -1,7 +1,7 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00ff,25:00ffff,50:ff00ff,75:ffff00,100:00ff00&height=6"/>
-
+ 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0533,25:4B0082,50:7B2FBE,75:C9A84C,100:FFD700&height=6"/>
+ 
 ```
 ██╗  ██╗ █████╗ ██████╗  █████╗ ███╗   ██╗
 ██║ ██╔╝██╔══██╗██╔══██╗██╔══██╗████╗  ██║
@@ -10,13 +10,13 @@
 ██║  ██╗██║  ██║██║  ██║██║  ██║██║ ╚████║
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
 ```
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00ff,25:00ffff,50:ff00ff,75:ffff00,100:00ff00&height=6"/>
-
+ 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,25:C9A84C,50:7B2FBE,75:4B0082,100:1a0533&height=6"/>
+ 
 <br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=32&pause=800&color=1e4c4c&center=true&vCenter=true&width=700&lines=%E2%98%85+PRESIDENTIAL+SCHOLAR+%40+GSU+%E2%98%85;%E2%9C%A6+Builder+%2F+%E2%9C%A6;%E2%98%86+BUILDING+AI_Powered+SYSTEMS+%E2%98%86;%F0%9F%94%92+SOMETHING+IN+STEALTH+MODE...)](https://git.io/typing-svg)
-
+ 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=32&pause=800&color=C9A84C&center=true&vCenter=true&width=700&lines=★+PRESIDENTIAL+SCHOLAR+@+GSU+★;✦+Builder+·+Hacker+·+Systems+Thinker+✦;☆+BUILDING+AI-POWERED+SYSTEMS+☆;🔒+SOMETHING+IN+STEALTH+MODE...)](https://git.io/typing-svg)
+ 
 <br/>
 
 `✦` `✦` `✦` `✦` `✦` `✦` `✦` `✦` `✦` `✦` `✦` `✦`
