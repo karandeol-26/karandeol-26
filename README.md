@@ -16,9 +16,7 @@
 <br/>
  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=32&pause=800&color=C9A84C&center=true&vCenter=true&width=700&lines=★+PRESIDENTIAL+SCHOLAR+@+GSU+★;✦+Builder+·+Hacker+·+Systems+Thinker+✦;☆+BUILDING+AI-POWERED+SYSTEMS+☆;🔒+SOMETHING+IN+STEALTH+MODE...)](https://git.io/typing-svg)
- 
 <br/>
-
 `✦` `✦` `✦` `✦` `✦` `✦` `✦` `✦` `✦` `✦` `✦` `✦`
 
 [![LinkedIn](https://img.shields.io/badge/✦_LinkedIn-FF00FF?style=for-the-badge&logoColor=white&logo=linkedin)](https://www.linkedin.com/in/karanpratap2611)
