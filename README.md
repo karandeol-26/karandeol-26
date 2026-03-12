@@ -173,23 +173,6 @@ Turns data into dollars. Smart pricing, waste reduction, and profit optimization
 
 ---
 
-<div align="center">
-
-### ✦ ✦ ✦ &nbsp; `STATS.EXE` &nbsp; ✦ ✦ ✦
-
-<img src="https://github-readme-stats.vercel.app/api?username=karanpratap2611&show_icons=true&theme=synthwave&hide_border=false&title_color=FF00FF&icon_color=00FFFF&text_color=ffffff&border_color=FF00FF" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanpratap2611&layout=compact&theme=synthwave&hide_border=false&title_color=00FFFF&text_color=ffffff&border_color=00FFFF" height="160"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=karanpratap2611&theme=synthwave&hide_border=false&ring=FF00FF&fire=FFFF00&currStreakLabel=00FFFF&sideNums=FF00FF&border=FF00FF" width="60%"/>
-
-</div>
-
----
-
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00ff,25:00ffff,50:ff00ff,75:ffff00,100:00ff00&height=6"/>
 
 `✦` open to collabs · internships · building things that matter `✦`
