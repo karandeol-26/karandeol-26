@@ -21,7 +21,6 @@
 [![LinkedIn](https://img.shields.io/badge/✦_LinkedIn-FF00FF?style=for-the-badge&logoColor=white&logo=linkedin)](https://www.linkedin.com/in/karanpratap2611)
 [![Medium](https://img.shields.io/badge/✦_Medium-00FFFF?style=for-the-badge&logoColor=black&logo=medium)](https://medium.com/@karandeol2611)
 [![GitHub](https://img.shields.io/badge/✦_GitHub-FFFF00?style=for-the-badge&logoColor=black&logo=github)](https://github.com/karanpratap2611)
-
 `✦` `✦` `✦` `✦` `✦` `✦` `✦` `✦` `✦` `✦` `✦` `✦`
 
 </div>
