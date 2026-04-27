@@ -163,7 +163,7 @@ Turns data into dollars. Smart pricing, waste reduction, and profit optimization
 |:---:|:---|:---|:---|
 | 🏆 | **Presidential Scholar** | Georgia State University | Full-ride · merit · leadership |
 | 🥇 | **HackPrinceton Fall 2025 — Best Business & Enterprise** | Princeton University | LEGR · autonomous finance agents |
-| 🥇 | **HackPrinceton Fall 2025 — Best Use of Eragon** | Princeton University | LEGR · long-running negotiation machines |
+| 🥇 | **HackPrinceton Fall 2025 — Best Use of Enterpro** | Princeton University | LEGR · long-running negotiation machines |
 | 🥇 | **HackGT 12 — Emerging Track** | Georgia Tech | Vertex A11y · accessibility scanner |
 | 🥇 | **UGAHacks 11 — NCR Voyix** | University of Georgia | Stockd · AI inventory |
 
