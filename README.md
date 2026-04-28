@@ -162,10 +162,10 @@ Turns data into dollars. Smart pricing, waste reduction, and profit optimization
 | ✦ | AWARD | WHERE | WHAT |
 |:---:|:---|:---|:---|
 | 🏆 | **Presidential Scholar** | Georgia State University | Full-ride · merit · leadership |
-| 🥇 | **HackPrinceton Fall 2025 — Best Business & Enterprise** | Princeton University | LEGR · autonomous finance agents |
-| 🥇 | **HackPrinceton Fall 2025 — Best Use of Enterpro** | Princeton University | LEGR · long-running negotiation machines |
+| 🥇 | **HackPrinceton Spring 2026 — Best Business & Enterprise** | Princeton University | LEGR · autonomous finance agents |
+| 🥇 | **HackPrinceton Spring 2026 — Best Use of Enterpro** | Princeton University | LEGR · long-running negotiation machines |
 | 🥇 | **HackGT 12 — Emerging Track** | Georgia Tech | Vertex A11y · accessibility scanner |
-| 🥇 | **UGAHacks 11 — NCR Voyix** | University of Georgia | Stockd · AI inventory |
+| 🥇 | **UGAHacks 11 — NCR Voyix Track** | University of Georgia | Stockd · AI inventory |
 
 </div>
 ---
