@@ -8,7 +8,7 @@ cs @ georgia state. they gave me a full ride and called me a presidential schola
 
 right now i'm at **cmu cylab** writing zero-knowledge proof tooling in rust — building a unit-testing framework for zokrates circuits inside a compiler. it's as niche as it sounds. i love it here.
 
-also i built **stockd**, an ai thing that stops restaurants from throwing food (and money) in the dumpster. it works. people use it. wild.
+also i built **stockd**, an ai thing that stops restaurants from throwing food (and money) in the dumpster. it works. people used it. wild.
 
 ---
 
