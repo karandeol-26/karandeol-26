@@ -8,8 +8,6 @@ cs @ georgia state. they gave me a full ride and called me a presidential schola
 
 right now i'm at **cmu cylab** writing zero-knowledge proof tooling in rust — building a unit-testing framework for zokrates circuits inside a compiler. it's as niche as it sounds. i love it here.
 
-also i built **stockd**, an ai thing that stops restaurants from throwing food (and money) in the dumpster. it works. people used it. wild.
-
 ---
 
 ### hackathons
@@ -18,7 +16,7 @@ i keep going to these and accidentally winning. not a flex (it's a little bit a 
 
 - 🥇 hackprinceton — best business & enterprise, *and* best use of enterpro. yeah, two. built autonomous finance agents that negotiate for hours without me.
 - 🥇 hackgt 12 — built an accessibility scanner because the web is kind of hostile and someone had to
-- 🥇 ugahacks 11 — that was stockd, before stockd was stockd
+- 🥇 ugahacks 11 — an ai thing that stops restaurants from throwing food (and money) in the dumpster.
 
 at this point it's less "skill" and more "a recurring scheduling problem."
 
